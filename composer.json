@@ -2,9 +2,9 @@
     "name": "mmeshkatian/persian-carbon",
     "description": "Carbon persian date",
     "require": {
-        "php": ">=7.2",
-        "morilog/jalali": "^3.4",
-        "nesbot/carbon": "^2.71"
+        "php": ">=7.0",
+        "morilog/jalali": ">=v2.0",
+        "nesbot/carbon": ">=1.0"
     },
     "license": "MIT",
     "autoload": {
