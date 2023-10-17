@@ -1,6 +1,17 @@
 {
     "name": "mmeshkatian/persian-carbon",
     "description": "Carbon persian date",
+    "keywords": [
+        "persian",
+        "jalali",
+        "php jalali",
+        "php carbon",
+        "laravel persian date",
+        "laravel carbon jalali",
+        "carbon",
+        "laravel shamsi",
+        "carbon shamsi"
+    ],
     "require": {
         "php": ">=7.0",
         "morilog/jalali": ">=v2.0",
