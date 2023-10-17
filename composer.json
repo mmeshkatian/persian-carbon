@@ -1,0 +1,28 @@
+{
+    "name": "mmeshkatian/persian-carbon",
+    "description": "Carbon persian date",
+    "require": {
+        "php": ">=7.2",
+        "morilog/jalali": "^3.4",
+        "nesbot/carbon": "^2.71"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mmeshkatian\\PersianCarbon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mehdi Meshkatian",
+            "email": "mmeshkatian@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mmeshkatian\\PersianCarbon\\PersianCarbonServiceProvider"
+            ]
+        }
+    }
+}
